@@ -28,7 +28,7 @@ To remove Zoomy, run `uninstall.bat` (or `Zoomy.exe uninstall`), then delete the
 
 ## Building
 
-Run `build.bat`. It uses the C# compiler that already comes with Windows 10, so you don't need to install anything. The result is a single `Zoomy.exe` of about 20 KB.
+Run `build.bat`. It uses the C# compiler that already comes with Windows 10, so you don't need to install anything. The result is a single `Zoomy.exe` of about 50 KB (most of that is the icon).
 
 ## Why a hotkey too?
 
